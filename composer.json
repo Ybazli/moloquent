@@ -1,5 +1,5 @@
 {
-  "name": "moloquent/moloquent",
+  "name": "ybazli/moloquent",
   "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
   "keywords": [
     "laravel",
@@ -10,11 +10,11 @@
     "model",
     "moloquent"
   ],
-  "homepage": "https://github.com/moloquent/moloquent",
+  "homepage": "https://github.com/ybazli/moloquent",
   "authors": [
     {
       "name": "Moloquent",
-      "homepage": "https://moloquent.github.io"
+      "homepage": ""
     },
     {
       "name": "Jens Segers",
@@ -23,10 +23,10 @@
   ],
   "license": "MIT",
   "require": {
-    "illuminate/support": "^5.1",
-    "illuminate/container": "^5.1",
-    "illuminate/database": "^5.1",
-    "illuminate/events": "^5.1",
+    "illuminate/support": "*",
+    "illuminate/container": "*",
+    "illuminate/database": "*",
+    "illuminate/events": "*",
     "mongodb/mongodb": "^1.0.0"
   },
   "require-dev": {
